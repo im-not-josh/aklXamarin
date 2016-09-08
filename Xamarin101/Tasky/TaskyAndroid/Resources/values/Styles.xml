@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+  <style name="Tasky" parent="Theme.AppCompat.Light.DarkActionBar">
+    <item name="windowNoTitle">true</item>
+    <item name="windowActionBar">false</item>
+    <item name="colorPrimary">@color/tasky_primary</item>
+    <item name="colorPrimaryDark">@color/tasky_primary_dark</item>
+    <item name="colorAccent">@color/tasky_accent</item>
+    <item name="android:colorButtonNormal">@color/tasky_primary</item>
+    <item name="android:textColorPrimary">@color/tasky_grey</item>
+    <item name="android:textColor">@color/tasky_white</item>
+  </style>
+</resources>

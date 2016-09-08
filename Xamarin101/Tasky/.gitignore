@@ -1,0 +1,12 @@
+*.suo
+*.user
+bin
+obj
+StyleCop.Cache
+Resource.Designer.cs
+Components/calabash-13.0/samples
+Components/sqlite-net-1.0.8.3/samples
+Components/xamandroidsupportv7appcompat-21.0.3.0/samples
+TaskyAndroid/obj
+TaskyiOS/obj
+TaskyWinPhone/obj

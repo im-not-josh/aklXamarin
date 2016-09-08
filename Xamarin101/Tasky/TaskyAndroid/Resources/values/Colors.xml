@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+  <color name="tasky_primary">#2675FF</color>
+  <color name="tasky_primary_dark">#0042CC</color>
+  <color name="tasky_accent">#FF9800</color>
+  <color name="tasky_black">#000000</color>
+  <color name="tasky_white">#FFFFFF</color>
+  <color name="tasky_grey">#727272</color>
+</resources>

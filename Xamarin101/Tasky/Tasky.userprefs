@@ -1,0 +1,34 @@
+﻿<Properties StartupItem="TaskyAndroid/TaskyAndroid.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Nexus 4 (KitKat)" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TaskyAndroid.UITest/Pages/Trait.cs">
+    <Files>
+      <File FileName="TaskyAndroid.UITest/Pages/Trait.cs" Line="1" Column="1" />
+      <File FileName="TaskyAndroid.UITest/Pages/HomePage.cs" Line="24" Column="4" />
+      <File FileName="TaskyAndroid.UITest/Pages/TaskDetailsPage.cs" Line="17" Column="33" />
+      <File FileName="TaskyAndroid.UITest/Pages/PageExtensions.cs" Line="20" Column="3" />
+      <File FileName="TaskyAndroid.UITest/Tests.cs" Line="32" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.NUnit.TestPad">
+        <State name="__root__">
+          <Node name="Tasky" expanded="True">
+            <Node name="TaskyAndroid.UITest" expanded="True">
+              <Node name="TaskyAndroid" expanded="True">
+                <Node name="UITest" expanded="True">
+                  <Node name="Tests" expanded="True">
+                    <Node name="AppLaunches" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TaskyAndroid AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>
